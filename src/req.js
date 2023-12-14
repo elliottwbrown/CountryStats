@@ -5,7 +5,7 @@ const options = {
   url: 'https://api.openai.com/v1/completions',
   headers: {
     'Content-Type': 'application/json',
-    'Authorization': 'Bearer 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'
+    'Authorization': 'Bearer xxx'
   },
   body: JSON.stringify({
     "model": "text-davinci-003",
